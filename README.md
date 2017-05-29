@@ -1,2 +1,0 @@
-# DesigningWithLight
-Project for Franz
