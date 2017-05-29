@@ -1,2 +1,2 @@
 # DesigningWithLight
-Project fro Franz
+Project for Franz
